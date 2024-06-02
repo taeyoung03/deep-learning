@@ -5,7 +5,7 @@
 This project predicts the likelihood of being accepted to a graduate school using deep learning models.
 
 ## Motivation
-* To studying deep learning and TensorFlow
+* To study deep learning and TensorFlow
 
 ## Cloned from
 [coding apple](https://codingapple.com/course/python-deep-learning/)
