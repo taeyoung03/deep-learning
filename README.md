@@ -7,5 +7,8 @@ This project predicts the likelihood of being accepted to a graduate school usin
 ## Motivation
 * Studying deep learning and TensorFlow
 
+## Cloned from
+[coding apple](https://codingapple.com/course/python-deep-learning/)
+
 ## Improvements
 * Loss and accuracy vary each time I run the model -> Experimentation and research needed for data preprocessing and parameter tuning
