@@ -23,6 +23,3 @@ model.summary()
 
 model.compile(loss="sparse_categorical_crossentropy", optimizer="adam", metrics=["accuracy"])
 model.fit(train_x, train_y, validation_data=(test_x, test_y), epochs=5)
-
-# score = model.evaluate(test_x, test_y)
-# print(score)
