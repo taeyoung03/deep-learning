@@ -12,4 +12,4 @@ This project uses preprocessed image data for deep learning.
 [coding apple](https://codingapple.com/course/python-deep-learning/)
 
 ## Improvements
-* Study required for deep learning on unprocessed data.
+* Study required for deep learning on unprocessed data
