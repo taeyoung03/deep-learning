@@ -5,7 +5,7 @@
 딥러닝을 통해 대학원에 합격할 확률을 예측한다.
 
 ## Motivation
-* 딥러닝 및 텐서플로우 공부 목적
+* 딥러닝 및 텐서플로우 공부
 
 ## Cloned from
 [coding apple](https://codingapple.com/course/python-deep-learning/)
