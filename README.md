@@ -4,13 +4,13 @@
 이 프로젝트는 강아지와 고양이를 구분하는 딥러닝 모델을 구현한다.
 
 ## Motivation
-* 딥러닝 및 텐서플로우 공부
+* 딥러닝 및 텐서플로우 학습
 * 이미지 전처리 실습
 * transfer learning 실습
 * fine tuning 실습
 
 ## Improvements
-* transfer learning을 사용할 때, 좀 더 높은 accuracy를 유도하기 위한 fine tuning에 대한 연구 및 실험 필
+* transfer learning을 사용할 때, 좀 더 높은 accuracy를 유도하기 위한 fine tuning에 대한 연구 및 실험 필요
 
 ## Cloned from
 [coding apple](https://codingapple.com/course/python-deep-learning/)
