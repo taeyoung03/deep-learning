@@ -7,7 +7,7 @@
 * 딥러닝 및 텐서플로우 학습
 
 ## Improvements
-* 실행할 때마다 loss 및 accuracy가 큰 폭으로 변함 -> 데이터 전처리와 파라미터 튜닝에 대한 연구 및 실험 필요
+* 전처리 및 학습에 오랜 시간이 걸림 -> 최적화 필요
 
 ## Cloned from
 [coding apple](https://codingapple.com/course/python-deep-learning/)
